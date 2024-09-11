@@ -1,25 +1,47 @@
-# Hello World! 👋
+# Olá, eu sou Filipe Lacerda! 👋
 
-I'm Filipe Lacerda, a Full Stack developer specializing in TypeScript.
+🎯 **Desenvolvedor Backend** | 🚀 **Especialista em Node.js** | 📡 **Apaixonado por API Design e Arquitetura de Sistemas**
 
-## 🚀 My Skills
+---
 
-- **Frontend**: React.js, VueJs and Next.js
-- **Mobile**: React Native and Expo
-- **Backend**: Node.js, Express.js, Nest.js, Fastify
-- **Database**: MongoDB, PostgreSQL, MySQL, DynamoDB
-- **DevOps**: Docker, Terraform, Serverless, AWS and Azure
-- **Languages**: C, PHP, Javascript, Java, HTML & CSS
+## Sobre mim
 
-## 📚 Recent Work
+Sou um desenvolvedor backend apaixonado por criar soluções escaláveis e robustas utilizando **Node.js** e tecnologias relacionadas. Tenho experiência em construir APIs RESTful e GraphQL, microsserviços e integração de banco de dados, sempre com foco na qualidade de código e boas práticas.
 
-1. **Fibonnaci Functions**: A repository with functions based on the fibbonaci sequence. Link to the project
-2. **Get api data react**: A simple react project that retrieve some api datas and show
+💡 **Áreas de Interesse:**
+- Arquitetura de software
+- Design de APIs eficientes
+- Microsserviços
+- Testes automatizados
+- Otimização de performance
 
-## 📫 Get in Touch
+---
 
-- LinkedIn: Filipe Lacerda
-- Email: tifilipebr@gmail.com
-- Whatsapp: +5533999799884
+## Tecnologias & Ferramentas
 
-Thank you for visiting my profile!
+💻 **Linguagens & Frameworks:**
+- **JavaScript / TypeScript**
+- **Node.js** (Express, NestJS, Fastify, etc.)
+- **Banco de dados**: MongoDB, PostgreSQL, MySQL, Redis
+
+🛠️ **Ferramentas & DevOps:**
+- Docker & Kubernetes
+- CI/CD (GitHub Actions, Jenkins)
+- AWS, GCP
+- Swagger / Postman para documentação e testes de APIs
+
+🧪 **Testes & Qualidade:**
+- Jest, Mocha, Chai
+- TDD / BDD
+- ESLint / Prettier para manutenção de código limpo
+
+
+## Como me encontrar
+
+📧 **E-mail:** [tifilipebr@gmail.com](mailto:tifilipebr@gmail.com)
+
+🔗 **LinkedIn:** [linkedin.com/in/filipev](https://www.linkedin.com/in/filipev)
+
+---
+
+### Vamos construir algo incrível juntos! 🚀
