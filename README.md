@@ -1,26 +1,14 @@
-<h2> Olá! Eu sou o Filipe Lacerda.
+<h2> Olá! 👋 Sou Filipe Lacerda, Full Stack Dev com foco em resolver desafios.
 
 <h3> 👨🏻‍💻 Sobre Mim </h3>
 
-- 🔭 &nbsp; Atualmente estou fazendo a especialização Dev Full Cycle
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software e hacks rápidos.
-- 🎓 &nbsp; Estudei Sistemas de Informação na UFV
-- 💼 &nbsp; Engenheiro de Software focado em soluções back-end.
-
-<h3>🛠 Stack Tecnológica</h3>
-
-- 💻 &nbsp; Typescript | Javascript
-- 🌐 &nbsp; NodeJs | React | Express | NestJs | NextJs
-- 🛢 &nbsp; MySQL | Firebase | Postgresql | MongoDB | DynamoDB | CosmoDB
+Sou um desenvolvedor com foco em WEB com experiência na criação de APIs, interfaces frontend e aplicações do início ao fim. Estou aberto a desenvolvimento de sistemas, interfaces e apis.
 
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=tifilipebr">
-
-</br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tifilipebr&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/tifilipebr/github-readme-stats)
-
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=tifilipebr&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=tifilipebr&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tifilipebr&layout=compact&theme=radical)
 
 <h3> 🤝🏻 Conecte-se Comigo </h3>
 
@@ -28,3 +16,5 @@
 &nbsp; <a href="https://www.linkedin.com/in/tifilipebr " target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:tifilipebr@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
+
+[Currículo](/curriculo.pdf)
